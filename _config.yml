@@ -1,5 +1,5 @@
 # site settings
-title: Tatevik
+title: TATEVIK
 subtitle: by FASHION DRUG
 email: tatevikpoghosyan0104@gmail.com
 description: "Fashion you can buy, but style you possess. The key to style is learning who you are, which takes years. There's no how-to road map to style. It's about self expression and, above all, attitude." —Iris Apfel
@@ -11,7 +11,7 @@ city: Istanbul
 state: 
 zip_code: 34098
 country: Turkey
-phone: (537) 050 76 52
+phone: +90 (537) 050 76 52
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
