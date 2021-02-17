@@ -1,8 +1,8 @@
 # site settings
 title: Tatevik
-subtitle: by HTML5 UP
+subtitle: by FASHION DRUG
 email: tatevikpoghosyan0104@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: "Fashion you can buy, but style you possess. The key to style is learning who you are, which takes years. There's no how-to road map to style. It's about self expression and, above all, attitude." —Iris Apfel
 baseurl: "/my-portfolio-jekyll" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
