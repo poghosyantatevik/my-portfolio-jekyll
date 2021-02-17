@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Accessories
 nav-menu: true
 ---
 
