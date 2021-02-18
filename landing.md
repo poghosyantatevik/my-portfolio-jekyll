@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Street Fashion duing 1970s
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: '1970s fashion derived from the "do it yourself<br />attitude of th hippie counter culture'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
