@@ -1,7 +1,7 @@
 ---
-title: Street Fashion duing 1970s
+title: Street Fashion during 1970s
 layout: landing
-description: '1970s fashion derived from the "do it yourself<br />attitude of th hippie counter culture'
+description: '1970s fashion derived from the "do it yourself"<br />attitude of th hippie counter culture'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
