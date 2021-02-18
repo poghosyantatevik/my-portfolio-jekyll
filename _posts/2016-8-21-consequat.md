@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: Cutouts
+description: 
 image: assets/images/pic05.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+If the idea of cut-out fashion conjures up images of cheap and revealing bodycon dresses worn by teenagers and reality stars, you are not alone. Over the past few years, as fashion’s love of the cut-out trickled down to the high street, the trend slowly lost its cool, but high-end designers are now bringing it back in a big way.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+On the spring/summer 2020 catwalks this past September, a number of major designers backed the cut-out comeback, mostly for eveningwear, but there was also a dabble in making it work for the office. Meanwhile, the autumn/winter 2020 London and New York shows have seen the cut-out emerge as one of the most obvious trends for next season, seen on everything from slinky dresses to chunky knits.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+How exactly has this flesh-flashing feature become chic again? Well, the answer is in the way designers have pulled it back.
+
+On the SS20 Versace catwalk, Gigi Hadid made an entrance in a black dress that draped across her body, revealing just the top of her abs through a slit in the material, which was pulled together with a trademark Versace gold clasp. At Saint Laurent, Christopher Kane and Alexander McQueen too, black eveningwear got the cut-out treatment in the form of slits, gaps and unexpected necklines.
