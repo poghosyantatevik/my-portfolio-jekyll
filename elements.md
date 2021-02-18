@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accessories
+title: Best Designers
 nav-menu: true
 ---
 
@@ -11,33 +11,33 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Fashion Designers</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Best of the best</h2>
+<p>Fashion designers are the people who not only design clothes, but also design dreams. The list for the best fashion designers is created based on the success and fame earned by a designer.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Calvin Klein</h3>
+		<p>The short of version of Calvin Klein (CK) is famous and popular almost all over the brand by everyone. In 1968 this brand was founded by Calvin Klein, a famous American fashion designer. He initiated his career by opening a store of men and women’s coat in New York City. Since then, he hasn’t looked behind and has expanded his business with an incredible pace and has been ruling the fashion industry very strongly. He truly deserves to be the number 1 fashion designer in the world 2012.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Donatella Versace</h3>
+		<p>She is the Vice President and the chief designer of the Versace Group. Donatella is the first ever fashion designer for using an A-list celebrities to promote her designs on the catwalk, rather than going for nameless models. When promoting her brand in Hollywood, she chose Madonna, Jennifer Lopez, Christiana Aguilera, Demi Moore and others to serve the purpose of promoting her brand.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Valentino Garavani</h3>
+		<p>e is the founder of the famous brand ‘Valentino Spa.’ He is an Italian designer and an incredible living legend without any doubts. He is best known for designing clothes for some of the famous celebrities around the globe. Princess Margaret, Queen Paola of Belgium, Jacqueline Kennedy and Elizabeth Taylor are some of the famous and regular customers of his.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Giorgio Armani</h3>
+		<p>Giorgio Armani is known to be the only designer who changed the trend of fashion industry after creating the brand “Armani” back in 1975. Armani is also the first ever designer to ban models who has a Body Mass Index under 18. He is truly a living legend and a great fashion designer.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Coco Chanel</h3>
+		<p>She is definitely a leading figure in the fashion industry. She was a French designer and was famous for her famous brand ‘Chanel.’ Up till now, she is the only single fashion designer to be named on the most important people of the century by Time Magazine.</p>
 	</div>
 </div>
 
