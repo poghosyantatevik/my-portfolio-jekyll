@@ -76,12 +76,6 @@ To know more read <a href="https://www.fibre2fashion.com/industry-article/3730/f
 	</div>
 	<div class="6u$ 12u$(small)">
 	
-		<h4>Social media</h4>
-		<ul class="icons">
-			<li><a href="https://twitter.com/taaaaatevik" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="https://www.facebook.com/tatevik.poghosyan.1/" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="https://www.instagram.com/poghosyan_tatevik/?hl=en" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
 
 	</div>
 </div>
