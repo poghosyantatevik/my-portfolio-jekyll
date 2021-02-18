@@ -1,7 +1,7 @@
 ---
-title: Street Fashion during 1970s
+title: Landing
 layout: landing
-description: '1970s' fashion derived from the "do it yourself" attitude of the hippie counter-culture '
+description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
